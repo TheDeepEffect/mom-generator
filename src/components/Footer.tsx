@@ -9,7 +9,7 @@ export default function Footer() {
             <h1>Minutes of Meeting generator with GPT3</h1>
         </div>
         <div className={styles.branding}>
-            <a href="https://in.linkedin.com/in/deepmanek25" target={"_blank"}>
+            <a href="https://in.linkedin.com/in/deepmanek25" target={"_blank"} rel="noreferrer">
                 <Lottie
                     options={{
                         loop: true,
@@ -18,7 +18,7 @@ export default function Footer() {
                     }}
                 />
             </a>
-            <a href="https://github.com/TheDeepEffect/mom-generator" target={"_blank"}>
+            <a href="https://github.com/TheDeepEffect/mom-generator" target={"_blank"} rel="noreferrer">
                 <Lottie
                     options={{
                         loop: true,
@@ -28,7 +28,7 @@ export default function Footer() {
                 />
             </a>
             <div>
-                All icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+                All icon by <a target="_blank" href="https://icons8.com" rel="noreferrer">Icons8</a>
             </div>
         </div>
     </footer>
